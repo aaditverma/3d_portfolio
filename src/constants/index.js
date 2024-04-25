@@ -98,42 +98,25 @@ import {
 
   const education = [
     {
-      title: "FrontEnd Developer",
-      company_name: "SattvaSoft",
+      title: "Heritage Xperiential Learning School",
+      company_name: "Grade 10",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "December 2023 - February 2024",
-      points: [
-        "Developing and maintaining web applications using html, css and javascript",
-        "Upscaling from older technologies to make webiste for readable anf efficient",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-      ],
+      date: "April 2017 - April 2020",
     },
     {
-      title: "FrontEnd Developer",
-      company_name: "Discovery Learning",
+      title: "Heritage Xperiential Learning School",
+      company_name: "Grade 12",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Dec 2023 - Ongoing",
-      points: [
-        "Developing and maintaining web applications using html, css and javascript",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Working with other experienced designers and developers to redesign the website frontend",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-      ],
+      date: "May 2020 - June 2022",
     },
     {
-      title: "Web Developer",
-      company_name: "College Project",
+      title: "Vellore Institute of Technology",
+      company_name: "Bachelor of Technology : Computer Science Engineering",
       icon: shopify,
       iconBg: "#383E56",
-      date: "March 2024 - Ongoing",
-      points: [
-        "Developing and maintaining web applications using html, css and javascript",
-        "Collaborating with my professor and team of developers to design a website frontend",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in a structured team led by our professor",
-      ],
+      date: "September 2022 - Ongoing",
     },
   ];
   
@@ -200,20 +183,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Education",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "javascript",
           color: "pink-text-gradient",
         },
       ],
@@ -221,20 +204,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Transport",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "javascript",
           color: "pink-text-gradient",
         },
       ],
@@ -242,20 +225,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Nike",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "",
       tags: [
         {
-          name: "nextjs",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "react",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
@@ -264,4 +247,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, testimonials, projects, education };
