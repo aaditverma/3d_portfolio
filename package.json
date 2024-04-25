@@ -2,6 +2,8 @@
   "name": "3d_portfolio",
   "private": true,
   "version": "0.0.0",
+  "description": "3d portfolio",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
