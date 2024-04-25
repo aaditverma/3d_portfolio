@@ -95,6 +95,48 @@ import {
     },
    
   ];
+
+  const education = [
+    {
+      title: "FrontEnd Developer",
+      company_name: "SattvaSoft",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "December 2023 - February 2024",
+      points: [
+        "Developing and maintaining web applications using html, css and javascript",
+        "Upscaling from older technologies to make webiste for readable anf efficient",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+      ],
+    },
+    {
+      title: "FrontEnd Developer",
+      company_name: "Discovery Learning",
+      icon: tesla,
+      iconBg: "#E6DEDD",
+      date: "Dec 2023 - Ongoing",
+      points: [
+        "Developing and maintaining web applications using html, css and javascript",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Working with other experienced designers and developers to redesign the website frontend",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+      ],
+    },
+    {
+      title: "Web Developer",
+      company_name: "College Project",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "March 2024 - Ongoing",
+      points: [
+        "Developing and maintaining web applications using html, css and javascript",
+        "Collaborating with my professor and team of developers to design a website frontend",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in a structured team led by our professor",
+      ],
+    },
+  ];
+  
   
   const experiences = [
     {
